@@ -11,7 +11,11 @@ namespace LabWork
     {
         static void Main(string[] args)
         {
-            
+            //New comment for example
+            //New comment for example
+            //New comment for example
+            //Add new line
+            //Add 5th line
             Console.WriteLine("Hello World!");
         }
     }
