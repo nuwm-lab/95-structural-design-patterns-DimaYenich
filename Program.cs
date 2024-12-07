@@ -13,7 +13,7 @@ namespace LabWork
         {
             //New comment for example
             //New comment for example
-
+            //New comment for example
             Console.WriteLine("Hello World!");
         }
     }
